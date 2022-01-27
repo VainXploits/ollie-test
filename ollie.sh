@@ -72,16 +72,16 @@ var1='''1: Bash -i
 56: Awk
 57: Dart
 
-echo "--------------------------------------"
-echo "Bind shells"
-echo "--------------------------------------"
+--------------------------------------
+Bind shells
+--------------------------------------
 
 58: Python3 Bind
 59: PHP Bind
 
-echo "--------------------------------------"
-echo "MSFVenom Shells"
-echo "--------------------------------------"
+--------------------------------------
+MSFVenom Shells
+--------------------------------------
 
 60: Windows Meterpreter Staged Reverse TCP (x64)
 61: Windows Meterpreter Stageless Reverse TCP (x64)"
